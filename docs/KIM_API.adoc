@@ -1,9 +1,13 @@
+ifdef::env-github[]
+:imagesdir: https://github.com/gematik/api-kim/raw/master/images
+endif::[]
+
 :toc: macro
 :toclevels: 3
 :toc-title: Inhaltsverzeichnis
 :numbered:
 
-image:images/gematik_logo.jpg[width=35%]
+image:gematik_logo.jpg[width=35%]
 
 toc::[]
 
@@ -23,7 +27,7 @@ Für KOM-LE 1.5 ist es notwenig das Clientmodul um folgendes anzupassen:
 Ab KOM-LE 1.5 kann der Funktionsumfang des Clientmodules in das PVS optional integriert werden. Somit ist kein seperates Clientmodul mehr notwendig.
 Die folgende Abbildung verdeutlicht die optionale Intergration in das PVS:
 
-image:images/CM_Integration.png[width=60%]
+image:CM_Integration.png[width=60%]
 
 
 === Umgang mit großen Anhängen
