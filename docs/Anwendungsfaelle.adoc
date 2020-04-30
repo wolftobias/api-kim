@@ -1,5 +1,5 @@
 ifdef::env-github[]
-:imagesdir: https://github.com/gematik/api-erp/raw/master/images
+:imagesdir: https://github.com/gematik/api-kim/raw/master/images
 endif::[]
 
 :toc: macro
