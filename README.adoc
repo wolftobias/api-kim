@@ -13,9 +13,13 @@ image:https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubuserconten
 image:https://img.shields.io/badge/dynamic/yaml?url=https://raw.githubusercontent.com/gematik/api-kim/develop/src/openapi/ServiceInformation.yaml&query=%24.info.version&style=plastic&logo=openapiinitiative&logoColor=green&label=ServiceInformation&color=green[link="src/openapi/ServiceInformation.yaml"]
 
 
-Home is {user-home}
-
 Env is {env}
+
+embedded {embedded}
+
+test {github.branch}
+
+test {github.branchname}
 
 
 
